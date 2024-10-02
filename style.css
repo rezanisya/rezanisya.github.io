@@ -27,7 +27,7 @@ body {
 
 .hero {
 	position: relative;
-	min-height: 130vh;
+	min-height: 10vh;
 }
 
 .hero h1 {
