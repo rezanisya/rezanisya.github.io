@@ -1,6 +1,6 @@
 :root {
 	--pink: #8d0808;
-	--bg:  #272727;
+	--bg:  #470a0a;
 	--shadow:  0 2px 2px rgb(0 0 0 / 0.5);
 }
 
@@ -35,6 +35,12 @@ body {
 	font-size: 4rem;
 }
 
+.hero h2 {
+	color: #aa0c0c;
+	font-family: "Great Vibes";
+	font-size: 6rem;
+	font-weight: bold;
+}
 .hero a {
 	color: var(--pink);
 	background-color: rgb(230, 230, 230);
@@ -76,30 +82,32 @@ body {
 }
 
 .home h2 {
-	color: var(--pink);
+	color: #aa0c0c;
 	font-family: "Great Vibes";
 	font-size: 6rem;
 	font-weight: bold;
 }
 
 .home h3 {
-	color: #444444;
+	color: #313131;
 	font-size: 1.3rem;
+	margin-top: 30px;
 	margin-bottom: 1rem;
 }
 
 .home p {
 	font-size: 1.3rem;
-	color: #666;
+	color: #424242;
 }
 
 .home .couple {
 	margin-top: 100px;
+	
 }
 
 .home .couple h3 {
 	font-family: "Great Vibes";
-	font-size: 2.3rem;
+	font-size: 2.7rem;
 	color: var(--pink);
 	font-weight: bold;
 }
@@ -133,9 +141,9 @@ body {
 }
 
 .info h2 {
-	color: var(--pink);
+	color: #c49b16;
 	font-family: "Great Vibes";
-	font-size: 3rem;
+	font-size: 4rem;
 	font-weight: bold;
 }
 
@@ -176,7 +184,7 @@ body {
 .story h2 {
 	color: var(--pink);
 	font-family: "Great Vibes";
-	font-size: 3rem;
+	font-size: 4rem;
 	font-weight: bold;
 }
 
@@ -306,7 +314,7 @@ body {
 .gifts h2 {
 	color: var(--pink);
 	font-family: "Great Vibes";
-	font-size: 3rem;
+	font-size: 4rem;
 	font-weight: bold;
 }
 
